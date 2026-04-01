@@ -1,1 +1,1 @@
-# スイッチテスター君
+# switch tester
